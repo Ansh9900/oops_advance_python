@@ -1,4 +1,5 @@
 
+#*1
 #! lambda
 #var = lambda n:n%2==0
 #print(var(5))
@@ -21,4 +22,5 @@
 #!
 # var = lambda a,b:len(a) == len(b)
 # print(var("ansh","bansal"))
-#*day 2
+#*2
+
