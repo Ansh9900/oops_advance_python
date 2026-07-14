@@ -20,7 +20,7 @@
 #         return self.marks + other.marks    
 # s1 = student(80)
 # s2 = student(90)
-#print(s1+s2)        
+# print(s1+s2)        
 #!complex number
 # class complex:
 #     def __init__(self,r,i):
@@ -28,7 +28,6 @@
 #         self.i = i
 #     def __add__(self,others):
 #         return f"{self.r + others.r},{self.i+others.i}A"
-
 # c1 = complex(2,1)
 # c2 = complex(3,1)
 # print(c1 + c2)       
@@ -47,6 +46,5 @@
 # if p1>p2:
 #     print(p1.name)
 # else:
-#     print(p2.name)    
+#     print(p2.name)   
 ########################################################################
-
